@@ -161,5 +161,5 @@ git checkout -- filename
 git reset HEAD~1
 ```
 
-终于写完了麻烦学长捞捞o(〃＾▽＾〃)o
+o(〃＾▽＾〃)o
 
